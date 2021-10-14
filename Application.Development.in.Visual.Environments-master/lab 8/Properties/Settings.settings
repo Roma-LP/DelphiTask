@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="lab_4.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="obshchaya_skhema" Type="System.String" Scope="User">
-      <Value Profile="(Default)">HELP2.chm</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
