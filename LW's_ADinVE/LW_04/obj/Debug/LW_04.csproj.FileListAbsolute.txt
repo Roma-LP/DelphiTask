@@ -1,0 +1,10 @@
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\bin\Debug\LW_04.exe.config
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\bin\Debug\LW_04.exe
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\bin\Debug\LW_04.pdb
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\obj\Debug\LW_04.csprojAssemblyReference.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\obj\Debug\LW_04.Form1.resources
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\obj\Debug\LW_04.Properties.Resources.resources
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\obj\Debug\LW_04.csproj.GenerateResource.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\obj\Debug\LW_04.csproj.CoreCompileInputs.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\obj\Debug\LW_04.exe
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_04\obj\Debug\LW_04.pdb

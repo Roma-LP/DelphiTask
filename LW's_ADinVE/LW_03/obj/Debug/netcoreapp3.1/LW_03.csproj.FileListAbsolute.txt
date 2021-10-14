@@ -1,0 +1,16 @@
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\bin\Debug\netcoreapp3.1\LW_03.exe
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\bin\Debug\netcoreapp3.1\LW_03.deps.json
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\bin\Debug\netcoreapp3.1\LW_03.runtimeconfig.json
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\bin\Debug\netcoreapp3.1\LW_03.runtimeconfig.dev.json
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\bin\Debug\netcoreapp3.1\LW_03.dll
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\bin\Debug\netcoreapp3.1\LW_03.pdb
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.csprojAssemblyReference.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.Properties.Resources.resources
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.csproj.GenerateResource.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.AssemblyInfoInputs.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.AssemblyInfo.cs
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.csproj.CoreCompileInputs.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.dll
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.pdb
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.genruntimeconfig.cache
+D:\БНТУ\РПвВС\LW's_ADinVE\LW_03\obj\Debug\netcoreapp3.1\LW_03.Form1.resources
